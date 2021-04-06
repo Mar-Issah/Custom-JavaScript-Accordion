@@ -117,27 +117,26 @@ footer {
 	}
 }
 
-/* hide-text, whenever the show text is avaible the code will work so is its pseudo selectors */
+
 .question-text {
 	display: none;
 }
 
-/*when show text is available the question-text displays block*/
+
 .show-text .question-text {
 	display: block;
 }
 
-/* by default minus icon display none but plus icon is available*/
+
 .minus-icon {
 	display: none;
 }
 
-/*when show text is available the minus-icon displays inline*/
 .show-text .minus-icon {
 	display: inline;
 }
 
-/*when show text is available the plus-icon displays none*/
+
 .show-text .plus-icon {
 	display: none;
 }
