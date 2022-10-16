@@ -40,7 +40,7 @@ This is JavaScript Web application which runs in the browser. You need a V8 engi
 <!-- USAGE EXAMPLES -->
 
 ## Project View
-[Click here](https://codepen.io/marsiya-issah/full/poRrzKp) to view project on CodePen
+[Click here](https://codepen.io/marsiya-issah/full/poRrzKp) to view project on CodePen.
 
 ![Custom JavaScript Accordion](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617668381/My%20Website%20Projects/questions_iumqam.png)
 
