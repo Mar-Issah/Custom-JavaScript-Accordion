@@ -1,5 +1,5 @@
 # Custom JavaScript Accordion
-A custom accordion built with HTML5, CSS3 and JavaScript
+A custom accordion built with HTML5, CSS3 and JavaScript.
 
 ## About The Project
 As you can see, a JavaScript accordion is a useful way to squeeze lots of page content into a small space. It consists of a list of items, of which only one is expanded at any one time.
