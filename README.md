@@ -73,7 +73,7 @@ Distributed under the `MIT License`. See [LICENSE](https://choosealicense.com/li
 
 Marsiya Issah : masy370@gmail.com
 
-Project Link: [https://github.com/Mar-Issah/Custom-JavaScript-Accordion.git](https://github.com/Mar-Issah/Custom-JavaScript-Accordion.git)
+Project Link: [https://github.com/Mar-Issah/Custom-JavaScript-Accordion.git](https://github.com/Mar-Issah/Custom-JavaScript-Accordion.git).
 
 Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/).
 
